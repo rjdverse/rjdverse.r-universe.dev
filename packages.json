@@ -1,0 +1,68 @@
+[
+    {
+        "package": "rjd3toolkit",
+        "url": "https://github.com/rjdverse/rjd3toolkit",
+		"branch" : "*release"
+
+    },
+    {
+        "package": "rjd3x13",
+        "url": "https://github.com/rjdverse/rjd3x13",
+		"branch" : "*release"
+    },
+    {
+        "package": "rjd3tramoseats",
+        "url": "https://github.com/rjdverse/rjd3tramoseats",
+		"branch" : "*release"
+    },
+    {
+        "package": "rjd3providers",
+        "url": "https://github.com/rjdverse/rjd3providers",
+		"branch" : "*release"
+    },
+    {
+        "package": "rjd3workspace",
+        "url": "https://github.com/rjdverse/rjd3workspace",
+		"branch" : "*release"
+    },
+    {
+        "package": "rjd3filters",
+        "url": "https://github.com/rjdverse/rjd3filters",
+		"branch" : "*release"
+    },
+    {
+        "package": "rjd3x11plus",
+        "url": "https://github.com/rjdverse/rjd3x11plus",
+		"branch" : "*release"
+    },
+    {
+        "package": "rjd3sts",
+        "url": "https://github.com/rjdverse/rjd3sts",
+		"branch" : "*release"
+    },
+    {
+        "package": "rjd3highfreq",
+        "url": "https://github.com/rjdverse/rjd3highfreq",
+		"branch" : "*release"
+    },
+    {
+        "package": "rjd3stl",
+        "url": "https://github.com/rjdverse/rjd3stl",
+		"branch" : "*release"
+    },
+    {
+        "package": "rjd3bench",
+        "url": "https://github.com/rjdverse/rjd3bench",
+		"branch" : "*release"
+    },
+    {
+        "package": "rjd3revisions",
+        "url": "https://github.com/rjdverse/rjd3revisions",
+		"branch" : "*release"
+    },
+    {
+        "package": "rjd3nowcasting",
+        "url": "https://github.com/rjdverse/rjd3nowcasting",
+		"branch" : "*release"
+    }
+]
