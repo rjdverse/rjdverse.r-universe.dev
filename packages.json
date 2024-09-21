@@ -1,4 +1,9 @@
 [
+    
+    {
+        "package": "RJDemetra",
+        "url": "https://github.com/rjdverse/rjdemetra"
+    },
     {
         "package": "rjd3toolkit",
         "url": "https://github.com/rjdverse/rjd3toolkit",
