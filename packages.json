@@ -9,6 +9,10 @@
         "url": "https://github.com/rjdverse/rjd3jars"
     },
     {
+        "package": "rjd3xjars",
+        "url": "https://github.com/rjdverse/rjd3xjars"
+    },
+    {
         "package": "rjd3toolkit",
         "url": "https://github.com/rjdverse/rjd3toolkit"
     },
