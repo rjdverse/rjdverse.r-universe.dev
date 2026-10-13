@@ -36,8 +36,7 @@
     },
     {
         "package": "rjd3filters",
-        "url": "https://github.com/rjdverse/rjd3filters",
-		"branch" : "*release"
+        "url": "https://github.com/rjdverse/rjd3filters"
     },
     {
         "package": "rjd3x11plus",
